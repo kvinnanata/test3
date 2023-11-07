@@ -11,3 +11,5 @@ web3.eth.getBlockNumber()
   .catch(error => {
     console.error('Ошибка:', error);
   });
+1122  
+ sdf l;msd  aaa ; ;,S sdf  sg e
